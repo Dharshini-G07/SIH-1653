@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:07.03.2025
+## Register Number:212224230209
+## Name:Priyadharshini G
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,42 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+```
+ 1.Provides a real-life panel interview experience with video conferencing and session recording.
 
+ 2.Automatically generates relevant technical and managerial questions based on the candidate’s expertise.
+
+ 3.AI analyzes accuracy, relevance, and confidence in candidate responses using NLP and speech analysis.
+
+ 4.Assigns quantifiable scores to both candidate responses and interviewer question relevance.
+
+ 5.Generates detailed interview reports with candidate rankings for unbiased selection.
+
+ 6.AI suggests follow-up questions and detects inconsistent evaluations to maintain fairness.
+
+ 
+ ```
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](image.png)
 
 ## Use Cases
-
+![alt text](image-1.png)
 
 ## Technology Stack
+1.Frontend – React.js/Angular for UI, WebRTC for video conferencing.
 
+2.Backend – Node.js/Django for APIs, WebSockets for real-time communication.
+
+3'Database – PostgreSQL for structured data, MongoDB for unstructured data.
+
+4.AI & NLP – GPT/BERT for question analysis, Google Speech-to-Text for voice processing.
 
 ## Dependencies
+1.Cloud & Hosting – AWS/Google Cloud for scalable deployment.
 
+2.Security – OAuth 2.0, JWT for authentication, AES-256 for encryption.
+
+3.Analytics – ELK Stack/Grafana for system monitoring.
+
+4.Integration – Zoom SDK/Jitsi for video calls, Firebase for notifications.
