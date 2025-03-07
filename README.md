@@ -11,7 +11,7 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-```
+
  1.Provides a real-life panel interview experience with video conferencing and session recording.
 
  2.Automatically generates relevant technical and managerial questions based on the candidate’s expertise.
@@ -25,7 +25,7 @@ Ministry of Defence
  6.AI suggests follow-up questions and detects inconsistent evaluations to maintain fairness.
 
  
- ```
+ 
 
 ## Proposed Solution / Architecture Diagram
 ![alt text](image.png)
